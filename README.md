@@ -17,7 +17,7 @@ Das Projekt befindet sich derzeit noch in der Entwicklung.
 ## 📸 Screenshots
 
 ### Produktübersicht
-<img src="Bilder/products.png" alt="Produktübersicht" width="500"/>
+<img src="Bilder/Products.png" alt="Produktübersicht" width="500"/>
 
 ### Produkt hinzufügen / bearbeiten
 <img src="Bilder/Add-Product.png" alt="Produktformular" width="600"/>
