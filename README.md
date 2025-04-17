@@ -22,8 +22,6 @@ The project is currently still under development.
 ### Add / Edit Product  
 <img src="Bilder/Add-Product.png" alt="Product Form" width="600"/>
 
-> 💡 Save your screenshots in the project folder under e.g. `screenshots/` and adjust the paths if necessary.
-
 ---
 
 ## ⚙️ Installation & Start
