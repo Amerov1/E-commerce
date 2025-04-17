@@ -1,41 +1,46 @@
 # 🛒 E-Commerce App
 
-Dies ist eine einfache E-Commerce-Verwaltungs-App, die es ermöglicht, Produkte hinzuzufügen, zu bearbeiten und zu löschen.  
-Das Projekt befindet sich derzeit noch in der Entwicklung.
+This is a simple e-commerce management app that allows adding, editing, and deleting products.  
+The project is currently still under development.
 
 ---
 
-## ✨ Features (bisher)
+## ✨ Features (so far)
 
-- ✅ Produkte hinzufügen
-- ✅ Produkte bearbeiten
-- ✅ Produkte löschen
-- ⏳ Weitere Funktionen wie Warenkorb, Benutzerverwaltung, Login & Checkout folgen
+- ✅ Add products  
+- ✅ Edit products  
+- ✅ Delete products  
+- ⏳ More features like cart, user management, login & checkout coming soon
 
 ---
 
 ## 📸 Screenshots
 
-### Produktübersicht
-<img src="Bilder/Products.png" alt="Produktübersicht" width="500"/>
+### Product Overview  
+<img src="Bilder/Products.png" alt="Product Overview" width="500"/>
 
-### Produkt hinzufügen / bearbeiten
-<img src="Bilder/Add-Product.png" alt="Produktformular" width="600"/>
+### Add / Edit Product  
+<img src="Bilder/Add-Product.png" alt="Product Form" width="600"/>
 
-> 💡 Speichere deine Screenshots im Projektordner unter z. B. `screenshots/` und passe die Pfade ggf. an.
+> 💡 Save your screenshots in the project folder under e.g. `screenshots/` and adjust the paths if necessary.
 
 ---
 
 ## ⚙️ Installation & Start
 
-1. Projekt installieren:
+1. Install the project:
 
 ```bash
-   npm install
-   ```
-2. Projekt starten:
- ```bash
-   npm run dev
-   ```
-3. Öffne im Browser:
+npm install
+```
+
+2. Start the project:
+
+```bash
+npm run dev
+```
+
+3. Open in your browser:  
    http://localhost:5173
+
+---
